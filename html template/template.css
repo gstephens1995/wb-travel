@@ -1,0 +1,129 @@
+
+body { margin:0;
+       background-color: #878787; }
+#container { background-color: #eeeeee;
+             color: #006600;
+             font-family: Verdana, Arial, sans-serif;
+			 width:100%;
+			 top:0;
+			 bottom:0;
+			 
+			 
+}
+			
+			 
+header { background-color: #46BFC1;
+         height: 120px;
+         color: #0B77C6;
+         text-align: right;
+         padding: 0 20px;
+         border-bottom: 2px solid #000000; }		 
+nav { float: left;
+      width: 230px; }
+
+main {  margin: 0 180px;
+        background-color: #ffffff;
+        color: #000000; 
+		}
+		
+footer { font-size: .70em;
+         text-align: center;
+         background-color: #eeeeee;
+         height: 50px;
+		 margin-top: -50px;
+         clear: both; 
+		 position: relative; }	
+		 
+h1 { margin-top: 0;
+     font-size: 3em;
+     text-align: center;
+     text-shadow: 2px 2px 2px #000000; }		 
+
+nav ul { margin-top: 20px;
+         list-style-type: disc; }
+nav a { text-decoration: none;
+        font-size: 12px; }
+nav a:link { color:#006600;}
+nav a:visited { color: #003300; }
+nav a:focus, nav a:hover { color: #0B77C6; }
+nav a:active { color: #000000;}
+nav img { margin: 50px;}
+main p { margin: 20px; }
+main h2, main h3 { background-color: #46BFC1;
+				   color: #0B77C6;}
+#searchButton{
+    width: 8%;
+    height: 30px;
+    background: gold;
+    cursor: pointer;
+    display: block;
+    margin-right: auto;
+    margin-left:auto;
+}
+#loginButton{
+    width: 4%;
+    height: 30px;
+    background: gold;
+    cursor: pointer;
+
+}
+
+#headText{
+    margin-top:4cm;
+    text-align: center;
+    color: black;
+}
+
+#subText{
+    text-align: center;
+    color: white;
+}
+
+#banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 25%;
+    height: auto;
+   
+}
+#logo{
+    float:left;
+    max-width: 8%;
+    height: auto;
+}
+
+#loginBox{
+   
+    width: 10%;
+    height: 25px;
+}
+#searchBox{
+
+    width: 20%;
+    height: 25px;
+    display: block;
+    margin-right: auto;
+    margin-left:auto;
+    text-align: center;
+}
+#login{
+    vertical-align: top;
+    text-align: right;
+	background-color: #46BFC1;  
+}
+#register{
+    display: inline-block;
+    height: auto;
+    color: white;
+}
+#pageTop{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+
+#pageBottom {
+    background-color: black;
