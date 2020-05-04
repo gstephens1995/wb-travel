@@ -25,6 +25,16 @@
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <script>
+        function validateForm() {
+          var x = document.forms["myForm"]["password"].value;
+          var y=document.forms["myForm"]["verifypassword"].value;
+          if (x!=y) {
+            alert("The password verification does not match the password.");
+            return false;
+          }
+        }
+        </script>
 </head>
 
 <body>
