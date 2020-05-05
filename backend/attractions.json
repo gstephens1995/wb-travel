@@ -1253,3 +1253,88 @@
  lng: "-110.7611",
  reviews: 0
 }
+//European Popular Locations
+
+{
+ name: "Paris, FR",
+ lat: "48.8566",
+ lng: "2.3522",
+ reviews: 0
+}
+
+{
+ name: "Cologne, DEU",
+ lat: "50.9375",
+ lng: "6.9603",
+ reviews: 0
+}
+
+{
+ name: "Berlin, DEU",
+ lat: "52.520008",
+ lng: "13.404954",
+ reviews: 0
+}
+
+{
+ name: "Munich, DEU",
+ lat: "48.135124",
+ lng: "11.581981",
+ reviews: 0
+}
+
+{
+ name: "London, UK",
+ lat: "51.507351",
+ lng: "-0.127758",
+ reviews: 0
+}
+
+{
+ name: "Winchester, UK",
+ lat: "39.185661",
+ lng: "78.163338",
+ reviews: 0
+}
+
+{
+ name: "Bristol, UK",
+ lat: "51.454514",
+ lng: "-2.587910",
+ reviews: 0
+}
+
+{
+ name: "Oxford, UK",
+ lat: "51.7520",
+ lng: "-1.2577",
+ reviews: 0
+}
+
+{
+ name: "Cambridge, UK",
+ lat: "52.2053",
+ lng: "0.1218",
+ reviews: 0
+}
+
+{
+ name: "Saint Petersburg, RU",
+ lat: "59.9311",
+ lng: "30.3609",
+ reviews: 0
+}
+
+{
+ name: "Kazan, RU",
+ lat: "55.7879",
+ lng: "49.1233",
+ reviews: 0
+}
+
+{
+ name: "Vladivostok, RU",
+ lat: "43.1332",
+ lng: "131.9113",
+ reviews: 0
+}
