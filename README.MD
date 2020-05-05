@@ -4,7 +4,7 @@ WB-Travel is a class group project of the Towson COSC484 Web-Based Programming c
 
 ## Project Description
 
-Vacation Advisor is a web site providing information to tourists regarding popular cities in the United States and provides  information about exciting things to do in these tourists areas.
+*Vacation Advisor* is a web site providing information to tourists regarding popular cities in the United States and provides  information about exciting things to do in these tourists areas.
 
 ### Tools & Technologies
 #### Front-end Languages:
@@ -23,21 +23,20 @@ Vacation Advisor is a web site providing information to tourists regarding popul
 ### Features/Pages:
 Website consists of the following pages/features :
 * *Home Page*
-  * It is main landing page of website which provides navigation to other pages and a brief introduction of website
+  * Main landing page providing a brief introduction to the website and navigation to subsequent pages. 
 * *About Us*
-  * An introductory page which provides information about company (website)
+  * Introductory page detailing company information.
 * *Things to do*
-  * An interactive list of exciting things to do in multiple places
+  * An interactive list of exciting things to do in multiple places.
 * *Cities*
-  * List of popular cities in USA
+  * List of popular cities in USA.
 * *Contact Us*
-  * This page provides the contact information
+  * Provides the information to contact company.
 * *Sign In*
-  * This page provides forms to sign in or register new users
+  * Utilizes forms for sign in or new user registration.
 * *Detail page*
-  * This page gives complete detail of a single location along with user’s feedback list . It also facilitate user to post their feedback
-
-
+  * Thoroughly details a single location along with user’s feedback list, and facilitates user feedback posting.
+  
 
 ## Getting Started/Installation
 
