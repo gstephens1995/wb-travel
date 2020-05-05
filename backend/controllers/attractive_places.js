@@ -1,11 +1,12 @@
 
 var AttractionModel = require('../models/attraction');
 
-const getAttractivePlaces = (req, res, next) => {
-    let lat = req.query.lat;
-    let lng = req.query.lng;
-
-    res.status(200).json({"status": "OK"});
+const getAttractivePlacesByReviews = (req, res, next) => {
+    let reviews = parseInt(req.query.reviews);
+    AttractionModel.find({}).where("reviews").gt(reviews).exec((err, result) => {
+        console.log(result);
+        res.status(200).json(result);
+    })
 }
 
 const createAttractions = (req, res, next) => {
@@ -18,13 +19,13 @@ const createAttractions = (req, res, next) => {
 }
 
 const getAllAttractions = (req, res, next) => {
-    const attractions = AttractionModel.find({}, (err, result) => {
+    AttractionModel.find({}, (err, result) => {
         res.status(200).json(result);
     });
 }
 
 module.exports = {
-    getAttractivePlaces: getAttractivePlaces,
+    getAttractivePlacesByReviews: getAttractivePlacesByReviews,
     createAttractions: createAttractions,
     getAllAttractions: getAllAttractions
 }
