@@ -26,5 +26,5 @@ var AttractionSchema = new Schema({
     }
 });
 
-const Attraction = mongoose.Model("Attraction", AttractionSchema);
+const Attraction = mongoose.model("Attraction", AttractionSchema);
 module.exports = Attraction;

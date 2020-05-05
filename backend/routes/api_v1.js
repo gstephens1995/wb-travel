@@ -1,8 +1,9 @@
 var express = require('express');
 var router = express.Router();
-const { getAttractivePlaces } = require('../controllers/attractive_places');
+const { getAllAttractions, getAttractivePlaces, createAttractions } = require('../controllers/attractive_places');
 
-/* GET home page. */
+router.get('/attractions', getAllAttractions)
 router.get('/attractions/:lat/:lng', getAttractivePlaces);
+router.post('/attractions', createAttractions);
 
 module.exports = router;
