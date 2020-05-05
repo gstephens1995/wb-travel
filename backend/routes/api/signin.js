@@ -1,25 +1,8 @@
 const User = require('../../models/User');
 const UserSession = require('../../models/UserSession');
-module.exports = (app) => {
-    /*
-    app.get('/api/counters', (req, res, next) => {
-      Counter.find()
-        .exec()
-        .then((counter) => res.json(counter))
-        .catch((err) => next(err));
-    });
-  
-    app.post('/api/counters', function (req, res, next) {
-      const counter = new Counter();
-  
-      counter.save()
-        .then(() => res.json(counter))
-        .catch((err) => next(err));
-    });
-    */
-
+module.exports = function (app) {
     //Sign up
-    app.post('/api/account/signup', (req, res, next) => {
+    app.post('/api/account/signup', function (req, res, next) {
         const { body } = req;
         const { first_name,
             last_name,
@@ -61,7 +44,7 @@ module.exports = (app) => {
         //save
         User.find({
             email: email
-        }, (err, previousUsers) => {
+        }, function (err, previousUsers){
             if (err) {
                 return res.end({
                     success: false,
@@ -81,7 +64,7 @@ module.exports = (app) => {
             newUser.first_name = first_name;
             newUser.last_name = last_name;
             newUser.password = newUser.generateHash(password);
-            newUser.save((err, user) => {
+            newUser.save(function (err, user) {
                 if (err) {
                     return res.end({
                         success: false,
@@ -96,7 +79,7 @@ module.exports = (app) => {
         })
     });
 
-    app.post('/api/account/signin', (req, res, next) => {
+    app.post('/api/account/signin', function (req, res, next) {
         const { body } = req;
         const {
             password
@@ -122,7 +105,7 @@ module.exports = (app) => {
 
         User.find({
             email: email
-        }, (err, users) => {
+        },function (err, users) {
             if (err) {
                 return res.send({
                     success: false,
@@ -145,10 +128,10 @@ module.exports = (app) => {
                 });
             }
 
-            //create user seeion
+            //create user session
             const userSession = new UserSession();
             userSession.userId = user._id;
-            userSession.save((err, doc) => {
+            userSession.save(function (err, doc) {
                 if (err) {
                     return res.send({
                         success: false,
@@ -165,7 +148,7 @@ module.exports = (app) => {
         })
     });
 
-    app.get('/api/account/verify', (req, res, next) => {
+    app.get('/api/account/verify', function (req, res, next) {
         //get token
         const { query } = req;
         const { token } = query;
@@ -174,7 +157,7 @@ module.exports = (app) => {
         UserSession.find({
             _id: token,
             isDeleted: false
-        }, (err, sessions) => {
+        }, function (err, sessions) {
             if (err) {
                 return res.send({
                     success: false,
@@ -196,7 +179,7 @@ module.exports = (app) => {
         });
     });
 
-    app.get('/api/account/logout', (req, res, next) => {
+    app.get('/api/account/logout', function (req, res, next) {
         //get token
         const { query } = req;
         const { token } = query;
@@ -208,7 +191,7 @@ module.exports = (app) => {
         },
             { $set: { 
                 isDeleted: true } }
-            , null, (err, sessions) => {
+            , null,function (err, sessions) {
                 if (err) {
                     return res.send({
                         success: false,
