@@ -2,8 +2,8 @@
 var AttractionModel = require('../models/attraction');
 
 const getAttractivePlacesByReviews = (req, res, next) => {
-    let reviews = parseInt(req.query.reviews);
-    AttractionModel.find({}).where("reviews").gt(reviews).exec((err, result) => {
+    let reviewsNum = parseInt(req.params.reviews) || 0;
+    AttractionModel.find({}).where("reviews").gt(reviewsNum).exec((err, result) => {
         console.log(result);
         res.status(200).json(result);
     })

@@ -11,8 +11,8 @@ var apiVersion1Router = require('./routes/api_v1');
 var app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname, 'public')));
 app.use(cookieParser());
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
 
 const url = "mongodb+srv://wb-travel:wb-travel@cluster0-vxj3i.mongodb.net/test?retryWrites=true&w=majority";
