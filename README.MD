@@ -39,11 +39,8 @@ Website consists of the following pages/features:
 * *Detail page*
   * Thoroughly details a single location along with user’s feedback list, and facilitates user feedback posting.
   
-
-## Installation
-
 ## Usage
-
+Wiki pages provide an in-depth overview of the individual pages a user may encounter when surfing the website. 
 
 ## API Endpoints
 
