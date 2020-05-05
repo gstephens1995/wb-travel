@@ -20,22 +20,22 @@ Vacation Advisor is a web site providing information to tourists regarding popul
 • Visual studio code
 • Google Chrome Browser
 
-### Features / Pages:
-​Website is consist of Following pages or features :
+### Features/Pages:
+Website consists of the following pages/features :
 • Home Page
-o It is main landing page of website which provides navigation to other pages and a brief introduction of website
+- It is main landing page of website which provides navigation to other pages and a brief introduction of website
 • About Us
-o An introductory page which provides information about company (website)
+- An introductory page which provides information about company (website)
 • Things to do
-o An interactive list of exciting things to do in multiple places
+- An interactive list of exciting things to do in multiple places
 • Cities
-o List of popular cities in USA
+- List of popular cities in USA
 • Contact Us
-o This page provides the contact information
+- This page provides the contact information
 • Sign In
-o This page provides forms to sign in or register new users
+- This page provides forms to sign in or register new users
 • Detail page
-o This page gives complete detail of a single location along with user’s feedback list . It also facilitate user to post their feedback
+- This page gives complete detail of a single location along with user’s feedback list . It also facilitate user to post their feedback
 
 
 
