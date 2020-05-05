@@ -22,8 +22,8 @@ WB-Travel is a class group project of the Towson COSC484 Web-Based Programming c
 * Visual studio code
 * Google Chrome Browser
 
-### Features/Pages:
-Website consists of the following pages/features :
+### Features/Pages
+Website consists of the following pages/features:
 * *Home Page*
   * Main landing page providing a brief introduction to the website and navigation to subsequent pages. 
 * *About Us*
