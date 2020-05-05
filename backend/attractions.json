@@ -1,202 +1,1255 @@
+//National Parks
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Offshore Trap/Pot Waters Area, Western Atlantic Ocean",
+ lat: "38.000000",
+ lng: "82.000000",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Steller Sea Lion Protection Area, AL",
+ lat: "57.466667",
+ lng: "-153.433334",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Pacific Remote Islands Marine National Monument",
+ lat: "16.736944",
+ lng: "-169.523895",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Papahanaumokuakea Marine National Monument, HI",
+ lat: "25.700001",
+ lng: "-171.733337",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Danville Conservation Area, New Florence, MO",
+ lat: "38.865097",
+ lng: "-91.504852",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Sand Harbor State Park, Incline Village, NV",
+ lat: "39.198364",
+ lng: "-119.930984",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "White Sands National Park, NM",
+ lat: "32.779720",
+ lng: "-106.171669",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Jackson Hole, WY",
+ lat: "43.582767",
+ lng: "-110.821999",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Mojave National Preserve, Kelso, CA",
+ lat: "35.141689",
+ lng: "-115.510399",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Joshua Tree National Park, CA",
+ lat: "33.881866",
+ lng: "-115.900650",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Buffalo National River, St Joe, AR",
+ lat: "35.985512",
+ lng: "-92.757652",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Hot Springs National Park, Hot Springs, AR",
+ lat: "34.521530",
+ lng: "-93.042267",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Kartchner Caverns State Park, Benson, AZ",
+ lat: "31.837551",
+ lng: "-110.347382",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Navajo Nation Reservation, NM",
+ lat: "36.075321",
+ lng: "-109.196930",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Sipsey Wilderness, Mt Hope, AL",
+ lat: "34.332035",
+ lng: "-87.434799",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Wrangell-St. Elias National Park & Preserve, AK",
+ lat: "61.710445",
+ lng: "-142.985687",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Lake Clark National Park and Preserve, Port Alsworth, AK",
+ lat: "60.412697",
+ lng: "-154.323502",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Katmai National Park and Preserve, King Salmon, AK",
+ lat: "58.597813",
+ lng: "-154.693756",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Glacier Bay National Park and Preserve, AK",
+ lat: "58.665806",
+ lng: "-136.900208",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Turtle Mountain, ND",
+ lat: "48.852882",
+ lng: "-99.803535",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Odiorne Point State Park, Rye, NH",
+ lat: "43.049023",
+ lng: "-70.720192",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Channel Islands National Park, Ventura, CA",
+ lat: "33.998028",
+ lng: "-119.772949",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Maplewood State Park, Pelican Rapids, MN",
+ lat: "46.520966",
+ lng: "-95.951576",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Bear Butte State Park, Sturgis, SD",
+ lat: "44.475296",
+ lng: "-103.424309",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Okefenokee National Wildlife Refuge, Folkston, GA",
+ lat: "30.773230",
+ lng: "-82.292732",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Denali National Park and Preserve, AK",
+ lat: "63.129887",
+ lng: "-151.197418",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Acadia National Park, ME",
+ lat: "44.338974",
+ lng: "-68.273430",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Topanga State Park, Topanga, CA",
+ lat: "34.093182",
+ lng: "-118.587318",
  reviews: 0
 }
 
 {
- name: "string",
- lat: "123",
- lng: "123",
+ name: "Gates of the Arctic National Park and Preserve, AK",
+ lat: "67.915199",
+ lng: "-153.463730",
+ reviews: 0
+}
+
+{
+ name: "Kaloko-Honokōhau National Historical Park, Kailua-Kona, HI",
+ lat: "19.678328",
+ lng: "-156.020477",
+ reviews: 0
+}
+
+{
+ name: "Pedernales Falls State Park, Johnson City, TX",
+ lat: "30.308069",
+ lng: "-98.257729",
+ reviews: 0
+}
+
+{
+ name: "Whiskeytown National Recreation Area, Whiskeytown, CA",
+ lat: "40.633495",
+ lng: "-122.564247",
+ reviews: 0
+}
+
+{
+ name: "Mesa Verde National Park, Mesa Verde, CO",
+ lat: "37.230873",
+ lng: "-108.461838",
+ reviews: 0
+}
+
+{
+ name: "Arches National Park, UT",
+ lat: "38.733082",
+ lng: "-109.592514",
+ reviews: 0
+}
+
+{
+ name: "Mount Rainier National Park, WA",
+ lat: "46.879967",
+ lng: "-121.726906",
+ reviews: 0
+}
+
+{
+ name: "Kenai Fjords National Park, AK",
+ lat: "60.043777",
+ lng: "-149.816360",
+ reviews: 0
+}
+
+{
+ name: "Anahuac National Wildlife Refuge, Anahuac, TX",
+ lat: "29.610300",
+ lng: "-94.449081",
+ reviews: 0
+}
+
+{
+ name: "Bandelier National Monument, Los Alamos, NM",
+ lat: "35.767288",
+ lng: "-106.311607",
+ reviews: 0
+}
+
+{
+ name: "Summit Bechtel Reserve, Glen Jean, WV",
+ lat: "37.916035",
+ lng: "-81.123047",
+ reviews: 0
+}
+
+{
+ name: "Rothrock State Forest, State College, PA",
+ lat: "40.720585",
+ lng: "-77.826965",
+ reviews: 0
+}
+
+{
+ name: "Great Smoky Mountains National Park, TN",
+ lat: "35.611763",
+ lng: "-83.489548",
+ reviews: 0
+}
+
+{
+ name: "Zion National Park, UT",
+ lat: "37.317207",
+ lng: "-113.022537",
+ reviews: 0
+}
+
+{
+ name: "Yosemite National Park, CA",
+ lat: "37.865101",
+ lng: "-119.538330",
+ reviews: 0
+}
+
+{
+ name: "Yellowstone National Park, WY",
+ lat: "44.429764",
+ lng: "-110.584663",
+ reviews: 0
+}
+
+{
+ name: "Haleakalā National Park, HI",
+ lat: "20.701283",
+ lng: "-156.173325",
+ reviews: 0
+}
+
+{
+ name: "Malibu Creek State Park, Calabasas, CA",
+ lat: "34.105156",
+ lng: "-118.731316",
+ reviews: 0
+}
+
+{
+ name: "Manti-La Sal National Forest, Price, UT",
+ lat: "39.187050",
+ lng: "-111.379890",
+ reviews: 0
+}
+
+{
+ name: "Cherry Creek State Park, Aurora, CO",
+ lat: "39.639973",
+ lng: "-104.831863",
+ reviews: 0
+}
+
+{
+ name: "Kissimmee Prairie Preserve State Park, Okeechobee, FL",
+ lat: "27.612417",
+ lng: "-81.053383",
+ reviews: 0
+}
+
+{
+ name: "Garden of Gods, Colorado Springs, CO",
+ lat: "38.873840",
+ lng: "-104.886665",
+ reviews: 0
+}
+
+{
+ name: "Petrified Forest National Park, AZ",
+ lat: "34.909988",
+ lng: "-109.806793",
+ reviews: 0
+}
+
+{
+ name: "Fort Berthold Indian Reservation, ND",
+ lat: "47.683880",
+ lng: "-102.354126",
+ reviews: 0
+}
+
+{
+ name: "Chattahoochee National Forest, Suches, GA",
+ lat: "34.765972",
+ lng: "-84.143517",
+ reviews: 0
+}
+
+{
+ name: "Little Sandy National Wildlife Refuge, Lindale, TX",
+ lat: "32.590797",
+ lng: "-95.273666",
+ reviews: 0
+}
+
+{
+ name: "Siuslaw National Forest, Tidewater, OR",
+ lat: "44.358715",
+ lng: "-123.829994",
+ reviews: 0
+}
+
+{
+ name: "Kings Canyon National Park, CA",
+ lat: "36.887856",
+ lng: "-118.555145",
+ reviews: 0
+}
+
+{
+ name: "Ruffner Mountain Nature Center, Birmingham, AL",
+ lat: "33.558990",
+ lng: "-86.707016",
+ reviews: 0
+}
+
+{
+ name: "Kings Mountain State Park, Blacksburg, SC",
+ lat: "35.130459",
+ lng: "-81.345444",
+ reviews: 0
+}
+
+{
+ name: "Honolulu Watershed Forest Preserve, Honolulu, HI",
+ lat: "21.363251",
+ lng: "-157.781265",
+ reviews: 0
+}
+
+{
+ name: "Oleta River State Park, North Miami, FL",
+ lat: "25.921614",
+ lng: "-80.144402",
+ reviews: 0
+}
+
+{
+ name: "Grant Park, Chicago, IL",
+ lat: "41.876465",
+ lng: "-87.621887",
+ reviews: 0
+}
+
+{
+ name: "Wisconsin Interstate State Park, WI",
+ lat: "45.398449",
+ lng: "-92.645126",
+ reviews: 0
+}
+
+{
+ name: "Bridge Creek Wildlife Area, Ukiah, OR",
+ lat: "45.043449",
+ lng: "-118.949318",
+ reviews: 0
+}
+
+{
+ name: "Willamette National Forest, Blue River, OR",
+ lat: "44.060471",
+ lng: "-122.091736",
+ reviews: 0
+}
+
+{
+ name: "Golden Gate Canyon State Park, CA",
+ lat: "39.814339",
+ lng: "-105.395622",
+ reviews: 0
+}
+
+{
+ name: "William F Hayden Green Mountain Park, Lakewood, CO",
+ lat: "39.702827",
+ lng: "-105.175636",
+ reviews: 0
+}
+
+{
+ name: "Cades Cove, Great Smoky Mountains National Park, TN",
+ lat: "35.593670",
+ lng: "-83.824997",
+ reviews: 0
+}
+
+{
+ name: "Lantz Farm and Nature Preserve, WV",
+ lat: "39.516754",
+ lng: "-80.649948",
+ reviews: 0
+}
+
+{
+ name: "Myakka State Forest, Englewood, FL",
+ lat: "26.988386",
+ lng: "-82.286552",
+ reviews: 0
+}
+
+{
+ name: "Lake Eola Park, Orlando, FL",
+ lat: "28.545021",
+ lng: "-81.372856",
+ reviews: 0
+}
+
+{
+ name: "Gulf State Park, Gulf Shores, AL",
+ lat: "30.262793",
+ lng: "-87.636337",
+ reviews: 0
+}
+
+
+{
+ name: "Egypt Valley Wildlife Area, OH",
+ lat: "40.115486",
+ lng: "-81.114090",
+ reviews: 0
+}
+
+
+{
+ name: "Kennesaw Mountain National Battlefield Park, Cobb County, GA",
+ lat: "33.976376",
+ lng: "-84.579163",
+ reviews: 0
+}
+
+
+{
+ name: "Shenandoah National Park, Shenandoah, VA",
+ lat: "38.700516",
+ lng: "-78.292694",
+ reviews: 0
+}
+
+
+{
+ name: "Ricketts Glen State Park, PA",
+ lat: "41.339184",
+ lng: "-76.290436",
+ reviews: 0
+}
+
+
+{
+ name: "El Dorado State Park, KS",
+ lat: "37.866047",
+ lng: "-96.756935",
+ reviews: 0
+}
+
+
+{
+ name: "Polihale State Park, Waimea, HI",
+ lat: "22.079357",
+ lng: "-159.761642",
+ reviews: 0
+}
+
+
+{
+ name: "Lake Wateree State Recreation Area, NC",
+ lat: "34.375179",
+ lng: "-80.863495",
+ reviews: 0
+}
+
+
+{
+ name: "Kekaha Kai State Park, Kona, HI",
+ lat: "19.788027",
+ lng: "-156.023453",
+ reviews: 0
+}
+
+
+{
+ name: "National Bison Range, MT",
+ lat: "47.342545",
+ lng: "-114.209747",
+ reviews: 0
+}
+
+
+{
+ name: "Castlewood Canyon State Park, CO",
+ lat: "39.319424",
+ lng: "-104.730606",
+ reviews: 0
+}
+
+
+{
+ name: "Hillman State Park, Burgettstown, PA",
+ lat: "40.453739",
+ lng: "-80.400864",
+ reviews: 0
+}
+
+
+{
+ name: "Little Big Econ State Forest, FL",
+ lat: "28.673721",
+ lng: "-81.104507",
+ reviews: 0
+}
+
+
+{
+ name: "Eagle Bluffs Conservation Area, Columbia, MO",
+ lat: "38.848934",
+ lng: "-92.431839",
+ reviews: 0
+}
+
+
+{
+ name: "Everglades National Park, FL",
+ lat: "25.286615",
+ lng: "-80.898651",
+ reviews: 0
+}
+
+
+{
+ name: "Mount Mitchell State Park, NC",
+ lat: "35.768803",
+ lng: "-82.306137",
+ reviews: 0
+}
+
+
+{
+ name: "Mt. Hood National Forest, OR",
+ lat: "45.454350",
+ lng: "-121.933136",
+ reviews: 0
+}
+
+
+{
+ name: "Island Park, ID",
+ lat: "44.429733",
+ lng: "-111.440849",
+ reviews: 0
+}
+
+
+{
+ name: "Redwood National Park, CA",
+ lat: "41.213181",
+ lng: "-124.004631",
+ reviews: 0
+}
+
+
+// NFL (National Football League) Stadiums
+{
+ name: "Arrowhead Stadium",
+ lat: "39.048949981852275",
+ lng: "-94.48388009015628",
+ reviews: 0
+}
+
+
+{
+ name: "Bank of America Stadium",
+ lat: "35.225840000480154",
+ lng: "-80.85330997988439",
+ reviews: 0
+}
+
+
+{
+ name: "Candlestick Park",
+ lat: "37.71399000065463",
+ lng: "-122.38672997089355",
+ reviews: 0
+}
+
+
+{
+ name: "Cleveland Browns Stadium",
+ lat: "41.50617997764925",
+ lng: "-81.69962006472832",
+ reviews: 0
+}
+
+
+{
+ name: "Cowboys Stadium",
+ lat: "32.746930526962096",
+ lng: "-97.09237391359306",
+ reviews: 0
+}
+
+
+{
+ name: "Edward Jones Dome",
+ lat: "38.63277991562563",
+ lng: "-90.18854002684685",
+ reviews: 0
+}
+
+
+{
+ name: "Fedex Field",
+ lat: "38.90768003663766",
+ lng: "-76.8642599314295",
+ reviews: 0
+}
+
+
+{
+ name: "Ford Field",
+ lat: "42.340049976484295",
+ lng: "-83.04563996849686",
+ reviews: 0
+}
+
+
+{
+ name: "Georgia Dome",
+ lat: "33.757349923637776",
+ lng: "-84.40121004538905",
+ reviews: 0
+}
+
+
+{
+ name: "Gilette Stadium",
+ lat: "42.09187991311927",
+ lng: "-71.26491006535264",
+ reviews: 0
+}
+
+
+{
+ name: "Heinz Field",
+ lat: "40.44672998460396",
+ lng: "-80.01574004161779",
+ reviews: 0
+}
+
+
+{
+ name: "Hubert H. Humphrey Metrodome",
+ lat: "44.974010063702735",
+ lng: "-93.25847997201066",
+ reviews: 0
+}
+
+
+{
+ name: "Invesco Field at Mile High",
+ lat: "39.743959999975914",
+ lng: "-105.0202800160825",
+ reviews: 0
+}
+
+
+{
+ name: "Jacksonville Municipal Stadium",
+ lat: "30.323870052233815",
+ lng: "-81.63689995605307",
+ reviews: 0
+}
+
+
+{
+ name: "LP Field",
+ lat: "36.16654004409162",
+ lng: "-86.77251999621592",
+ reviews: 0
+}
+
+
+{
+ name: "Lambeau Field",
+ lat: "44.50116994645191",
+ lng: "-88.06222993480286",
+ reviews: 0
+}
+
+
+{
+ name: "Lincoln Financial Field",
+ lat: "39.90147005168308",
+ lng: "-75.16729005674796",
+ reviews: 0
+}
+
+
+{
+ name: "Louisiana Superdome",
+ lat: "29.951159988373036",
+ lng: "-90.08127999012783",
+ reviews: 0
+}
+
+
+{
+ name: "Lucas Oil Stadium",
+ lat: "39.760000000122375",
+ lng: "-86.16311000021767",
+ reviews: 0
+}
+
+
+{
+ name: "M&T Bank Stadium",
+ lat: "39.27790000460368",
+ lng: "-76.62270000548904",
+ reviews: 0
+}
+
+
+{
+ name: "Meadowlands Stadium",
+ lat: "40.81361000005551",
+ lng: "-74.07443999986424",
+ reviews: 0
+}
+
+
+{
+ name: "Oakland-Alameda County Coliseum",
+ lat: "37.75233000172909",
+ lng: "-122.19990002093903",
+ reviews: 0
+}
+
+
+{
+ name: "Paul Brown Stadium",
+ lat: "39.095320014037895",
+ lng: "-84.51623004771318",
+ reviews: 0
+}
+
+
+{
+ name: "Qualcomm Stadium",
+ lat: "32.78321999916608",
+ lng: "-117.11975996885144",
+ reviews: 0
+}
+
+
+{
+ name: "Qwest Stadium",
+ lat: "47.595297677401895",
+ lng: "-122.33171440620401",
+ reviews: 0
+}
+
+
+{
+ name: "Ralph Wilson Stadium",
+ lat: "42.77379002165435",
+ lng: "-78.78679001883404",
+ reviews: 0
+}
+
+
+{
+ name: "Raymond James Stadium",
+ lat: "27.978840051975624",
+ lng: "-82.50349005662855",
+ reviews: 0
+}
+
+
+{
+ name: "Reliant Stadium",
+ lat: "29.684929940564473",
+ lng: "-95.41091997803119",
+ reviews: 0
+}
+
+
+{
+ name: "Soldier Field",
+ lat: "41.862500067497876",
+ lng: "-87.61676997620833",
+ reviews: 0
+}
+
+
+{
+ name: "Sun Life Stadium",
+ lat: "25.958010015322884",
+ lng: "-80.23888995439034",
+ reviews: 0
+}
+
+
+{
+ name: "University of Phoenix Stadium",
+ lat: "33.527157208713106",
+ lng: "-112.26229147924977",
+ reviews: 0
+}
+
+
+// Best restaurant in each state
+{
+ name: "Highlands Bar & Grill, Birmingham, AL",
+ lat: "33.5006",
+ lng: "-86.7955",
+ reviews: 0
+}
+
+
+{
+ name: "Marx Bros. Cafe, Anchorage, AK",
+ lat: "61.2197",
+ lng: "-149.8946",
+ reviews: 0
+}
+
+
+{
+ name: "Pizzeria Bianco, Phoenix, AZ",
+ lat: "33.4492",
+ lng: "-112.0656",
+ reviews: 0
+}
+
+
+{
+ name: "One Eleven at the Capital, Little Rock, AR",
+ lat: "34.7481",
+ lng: "-92.2710",
+ reviews: 0
+}
+
+
+{
+ name: "Quince, San Francisco, CA",
+ lat: "37.7975",
+ lng: "-122.4033",
+ reviews: 0
+}
+
+
+{
+ name: "Frasca Food and Wine, Boulder, CO",
+ lat: "40.0193",
+ lng: "-105.2725",
+ reviews: 0
+}
+
+
+{
+ name: "Homestead Inn, Greenwich, CT",
+ lat: "41.0151",
+ lng: "-73.6345",
+ reviews: 0
+}
+
+
+{
+ name: "a(MUSE.), Rehobeth Beach, DE",
+ lat: "38.7169",
+ lng: "-75.0805",
+ reviews: 0
+}
+
+
+{
+ name: "KYU, Miami, FL",
+ lat: "25.8009",
+ lng: "-80.2002",
+ reviews: 0
+}
+
+
+{
+ name: "Bacchanalia, Atlanta, GA",
+ lat: "33.7868",
+ lng: "-84.4121",
+ reviews: 0
+}
+
+
+{
+ name: "Mama's Fish House, Paia, HI",
+ lat: "20.9290",
+ lng: "-156.3670",
+ reviews: 0
+}
+
+
+{
+ name: "The Modern, Boise, ID",
+ lat: "43.6182",
+ lng: "-116.2105",
+ reviews: 0
+}
+
+
+{
+ name: "Alinea, Chicago, IL",
+ lat: "41.9134",
+ lng: "-87.6481",
+ reviews: 0
+}
+
+
+{
+ name: "Milktooth, Indianapolis, IN",
+ lat: "39.7591",
+ lng: "-86.1464",
+ reviews: 0
+}
+
+{
+ name: "Proof, Des Moines, IA",
+ lat: "41.5851",
+ lng: "-93.6338",
+ reviews: 0
+}
+
+{
+ name: "Cafe Province, Prairie Village, KS",
+ lat: "39.0025",
+ lng: "-94.6315",
+ reviews: 0
+}
+
+{
+ name: "Heirloom, Midway, KY",
+ lat: "38.1509",
+ lng: "-84.6838",
+ reviews: 0
+}
+
+{
+ name: "Herbsaint, New Orleans, LA",
+ lat: "29.9473",
+ lng: "-90.0716",
+ reviews: 0
+}
+
+{
+ name: "Fore Street, Portland, OR",
+ lat: "43.6580",
+ lng: "-70.2509",
+ reviews: 0
+}
+
+{
+ name: "Charleston, Baltimore, MD",
+ lat: "39.2826",
+ lng: "-76.6000",
+ reviews: 0
+}
+
+{
+ name: "The Table at Season To Taste, Cambridge, MA",
+ lat: "42.3984",
+ lng: "-71.1310",
+ reviews: 0
+}
+
+{
+ name: "Roast, Detroit, MI",
+ lat: "42.3322",
+ lng: "-83.0506",
+ reviews: 0
+}
+
+{
+ name: "Spoon and Stable, Minneapolis, MN",
+ lat: "44.9856",
+ lng: "-93.2695",
+ reviews: 0
+}
+
+{
+ name: "City Grocery, Oxford, MS",
+ lat: "34.3658",
+ lng: "-89.5194",
+ reviews: 0
+}
+
+{
+ name: "Bluestem, Kansas City, MO",
+ lat: "39.0509",
+ lng: "-94.5969",
+ reviews: 0
+}
+
+{
+ name: "Lucca's, Helena, MT",
+ lat: "46.5885",
+ lng: "-112.0389",
+ reviews: 0
+}
+
+{
+ name: "The Boiler Room, Omaha, NE",
+ lat: "41.2535",
+ lng: "-95.9312",
+ reviews: 0
+}
+
+{
+ name: "Bazaar Meat, Las Vegas, NV",
+ lat: "36.1432",
+ lng: "-115.1571",
+ reviews: 0
+}
+
+{
+ name: "Moxy, Portsmouth, NH",
+ lat: "43.0778",
+ lng: "-70.7568",
+ reviews: 0
+}
+
+{
+ name: "The Frog and the Peach, New Brunswick, NJ",
+ lat: "40.4950",
+ lng: "-74.4409",
+ reviews: 0
+}
+
+{
+ name: "Geronimo, Santa Fe, NM",
+ lat: "35.6805",
+ lng: "-105.9254",
+ reviews: 0
+}
+
+{
+ name: "Eleven Madison Park, New York City, NY",
+ lat: "40.7416",
+ lng: "-73.9872",
+ reviews: 0
+}
+
+{
+ name: "Bida Manda, Raleigh, NC",
+ lat: "35.7773",
+ lng: "-78.6367",
+ reviews: 0
+}
+
+{
+ name: "Mezzaluna, Fargo, ND",
+ lat: "46.8794",
+ lng: "-96.7889",
+ reviews: 0
+}
+
+{
+ name: "Orchids at Palm Court, Cincinatti, OH",
+ lat: "39.1008",
+ lng: "-84.5139",
+ reviews: 0
+}
+
+{
+ name: "Bodean, Tulsa, OK",
+ lat: "36.0893",
+ lng: "-95.9367",
+ reviews: 0
+}
+
+{
+ name: "Kachka, Portland, OR",
+ lat: "45.5157",
+ lng: "-122.6546",
+ reviews: 0
+}
+
+{
+ name: "Zahav, Philadelphia, PA",
+ lat: "39.9462",
+ lng: "-75.1453",
+ reviews: 0
+}
+
+{
+ name: "Bouchard Restaurant and Inn, Newport, RI",
+ lat: "41.4793",
+ lng: "-71.3144",
+ reviews: 0
+}
+
+{
+ name: "Fig, Charleston, SC",
+ lat: "32.7824",
+ lng: "-79.9316",
+ reviews: 0
+}
+
+{
+ name: "Dakotah Steakhouse, Rapid City, SD",
+ lat: "44.0977",
+ lng: "-103.1520",
+ reviews: 0
+}
+
+{
+ name: "The Barn at Blackberry Farm, Walland, TN",
+ lat: "35.6927",
+ lng: "-83.8625",
+ reviews: 0
+}
+
+{
+ name: "Franklin Barbeque, Austin, TX",
+ lat: "30.2700",
+ lng: "-97.7313",
+ reviews: 0
+}
+
+{
+ name: "Manoli's, Salt Lake City, UT",
+ lat: "40.7494",
+ lng: "-111.8794",
+ reviews: 0
+}
+
+{
+ name: "Hen of the Wood, Burlington, VT",
+ lat: "44.4786",
+ lng: "-73.2174",
+ reviews: 0
+}
+
+{
+ name: "Inn at Little Washington, Washington, VA",
+ lat: "38.7134",
+ lng: "-78.1591",
+ reviews: 0
+}
+
+{
+ name: "Canlis, Seattle, WA",
+ lat: "47.6431",
+ lng: "-122.3468",
+ reviews: 0
+}
+
+{
+ name: "Lot 12 Public House, Berkeley Springs, WV",
+ lat: "39.6241",
+ lng: "-78.2282",
+ reviews: 0
+}
+
+{
+ name: "Ardent, Milwaukee, WI",
+ lat: "43.0540",
+ lng: "-87.8916",
+ reviews: 0
+}
+
+{
+ name: "Snake River Grill, Jackson, WY",
+ lat: "43.4793",
+ lng: "-110.7611",
  reviews: 0
 }
