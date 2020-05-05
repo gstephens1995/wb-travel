@@ -24,8 +24,30 @@ const getAllAttractions = (req, res, next) => {
     });
 }
 
+const getClosestAttractions = (req, res, next) => {
+    AttractionModel.find({}, (err, result) => {
+        console.log(req.params);
+        let closest_places = result.filter( x => {
+            getMiles( parseFloat(x.lat), parseFloat(x.lng), req.params.lat, req.params.lng ) <= req.params.miles
+        })
+        res.status(200).json({"closest_places": closest_places});
+    })
+}
+
+const getMiles = (lat1, lng1, lat2, lng2) => {
+    let R = 6371;
+    let diffLat = (lat2 - lat1) * (Math.PI / 180);
+    let diffLng = (lng2 - lng1) * (Math.PI / 180);
+    let lat1Rad = lat1 * (Math.PI / 180);
+    let lat2Rad = lat2 * (Math.PI / 180);
+    let a = Math.sin(diffLat/2) * Math.sin(diffLat/2) + Math.sin(diffLng/2) * Math.sin(diffLng/2) * Math.cos(lat1Rad) * Math.cos(lat2Rad);
+    let d = R * 2 * Math.atan(Math.sqrt(a), Math.sqrt(1-a));
+    return d * 0.621371; //in miles
+}
+
 module.exports = {
     getAttractivePlacesByReviews: getAttractivePlacesByReviews,
     createAttractions: createAttractions,
-    getAllAttractions: getAllAttractions
+    getAllAttractions: getAllAttractions,
+    getClosestAttractions: getClosestAttractions
 }
