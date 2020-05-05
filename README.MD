@@ -46,19 +46,19 @@ Website consists of the following pages/features :
 
 ## API Endpoints
 
-1. Provides closest attractions from the miles of radius.
+*1. Provides closest attractions from the miles of radius.*
 
     GET api/v1/attractions/:lat/:lng/:miles
 
-2. Provides all attractions.
+*2. Provides all attractions.*
 
     GET api/v1/attractions
 
-3. Provides attractions based on the number of ratings received.
+*3. Provides attractions based on the number of ratings received.*
 
     GET api/v1/attractions/:reviews
 
-4. Creates attractions from the POST body array.
+*4. Creates attractions from the POST body array.*
 
     POST api/v1/attractions
 
