@@ -1,8 +1,10 @@
 var express = require('express');
 var router = express.Router();
-const { getAttractivePlaces } = require('../controllers/attractive_places');
+const { getAllAttractions, getAttractivePlacesByReviews, createAttractions, getClosestAttractions } = require('../controllers/attractive_places');
 
-/* GET home page. */
-router.get('/attractions/:lat/:lng', getAttractivePlaces);
+router.get('/attractions', getAllAttractions);
+router.get('/attractions/:lat/:lng/:miles', getClosestAttractions);
+router.get('/attractions/:reviews', getAttractivePlacesByReviews);
+router.post('/attractions', createAttractions);
 
 module.exports = router;
