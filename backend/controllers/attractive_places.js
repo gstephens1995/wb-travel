@@ -25,11 +25,14 @@ const getAllAttractions = (req, res, next) => {
 }
 
 const getClosestAttractions = (req, res, next) => {
+    let lat2 = parseFloat(req.params.lat);
+    let lng2 = parseFloat(req.params.lng);
+    let miles = parseFloat(req.params.miles);
     AttractionModel.find({}, (err, result) => {
-        console.log(req.params);
         let closest_places = result.filter( x => {
-            getMiles( parseFloat(x.lat), parseFloat(x.lng), req.params.lat, req.params.lng ) <= req.params.miles
-        })
+            return getMiles( parseFloat(x.lat), parseFloat(x.lng), lat2, lng2 ) < miles
+        });
+        console.log(closest_places);
         res.status(200).json({"closest_places": closest_places});
     })
 }
