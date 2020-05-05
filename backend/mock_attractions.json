@@ -1,6 +1,0 @@
-{
- name: "string",
- lat: "123",
- lng: "123",
- reviews: 0
-}
