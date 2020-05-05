@@ -7,16 +7,16 @@ WB-Travel is a class group project of the Towson COSC484 Web-Based Programming c
 *Vacation Advisor* is a web site providing information to tourists regarding popular cities in the United States and provides  information about exciting things to do in these tourists areas.
 
 ### Tools & Technologies
-#### Front-end Languages:
+#### *Front-end Languages:*
 * HTML
 * CSS
 * JavaScript
 * Jquery
 
-#### Front end frameworks (used to make website responsive):
+#### *Front end frameworks:*
 * Bootstrap
 
-#### Tools used in code development:
+#### *Tools used in code development:*
 * Visual studio code
 * Google Chrome Browser
 
