@@ -23,19 +23,19 @@ Vacation Advisor is a web site providing information to tourists regarding popul
 ### Features/Pages:
 Website consists of the following pages/features :
 • Home Page
-- It is main landing page of website which provides navigation to other pages and a brief introduction of website
+  - It is main landing page of website which provides navigation to other pages and a brief introduction of website
 • About Us
-- An introductory page which provides information about company (website)
+  - An introductory page which provides information about company (website)
 • Things to do
-- An interactive list of exciting things to do in multiple places
+  - An interactive list of exciting things to do in multiple places
 • Cities
-- List of popular cities in USA
+  - List of popular cities in USA
 • Contact Us
-- This page provides the contact information
+  - This page provides the contact information
 • Sign In
-- This page provides forms to sign in or register new users
+  - This page provides forms to sign in or register new users
 • Detail page
-- This page gives complete detail of a single location along with user’s feedback list . It also facilitate user to post their feedback
+  - This page gives complete detail of a single location along with user’s feedback list . It also facilitate user to post their feedback
 
 
 
