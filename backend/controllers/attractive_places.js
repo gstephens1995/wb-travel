@@ -37,6 +37,24 @@ const getClosestAttractions = (req, res, next) => {
     })
 }
 
+const getKilometers = (lat1, lng1, lat2, lng2) => {
+    const R = 6371000; //in meters
+
+    let phiOne = (lat1) * (Math.PI / 180);
+    let phiTwo = (lat2) * (Math.PI / 180);
+
+    let deltaPhi = (lat2 - lat1) * (Math.PI / 180);
+    let deltaLambda = (lng2 - lng1) * (Math.PI / 180);
+
+    let a = Math.sin(deltaPhi/2) * Math.sin(deltaPhi/2) + Math.cos(phiOne) * Math.cos(phiTwo) * Math.sin(deltaLambda/2) * Math.sin(deltaLambda/2);
+    
+    let c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+
+    let d = R * c;
+
+    return d; //in kilometers
+}
+
 const getMiles = (lat1, lng1, lat2, lng2) => {
     let R = 6371;
     let diffLat = (lat2 - lat1) * (Math.PI / 180);
