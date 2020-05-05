@@ -1,4 +1,6 @@
-# *WB-TRAVEL (Vacation Advisor)*  ![Vacation Advisor](logo.png)
+   ![Vacation Advisor](logo.png)
+                     
+# *WB-TRAVEL*  
 
 WB-Travel is a class group project of the Towson COSC484 Web-Based Programming class.
 
