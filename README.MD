@@ -4,6 +4,9 @@ WB-Travel is a class group project of the web-based programming class - COSC484
 
 
 
+
+# Getting Started/Installation
+
   
 
 ## API Endpoints
