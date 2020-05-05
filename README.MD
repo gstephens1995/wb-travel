@@ -1,10 +1,8 @@
-# WB-TRAVEL
-
-DESCRIPTION GOES HERE.
-
-  
+# WB-TRAVEL (Vacation Advisor)
 
 WB-Travel is a class group project of the web-based programming class - COSC484
+
+
 
   
 
@@ -27,3 +25,16 @@ The endpoint provides attractions based on the number of ratings received.
     POST api/v1/attractions
 
 The endpoint creates attractions from the POST body array.
+
+
+
+# Collaborators:
+
+- Aidan Houlihan
+- Carlton Etchison
+- Charles Lejtman
+- Greg Stephens
+- Kaleem
+- Prince John Okodua-Oboh
+- Thiri Hsu Myat Aung
+
