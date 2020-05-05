@@ -40,9 +40,9 @@ Website consists of the following pages/features:
   * Thoroughly details a single location along with user’s feedback list, and facilitates user feedback posting.
   
 
-## Getting Started/Installation
+## Installation
 
-
+## Usage
 
 
 ## API Endpoints
