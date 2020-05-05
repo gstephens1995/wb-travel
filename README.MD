@@ -1,10 +1,10 @@
-# WB-TRAVEL (Vacation Advisor)
+# *WB-TRAVEL (Vacation Advisor)*
 
 WB-Travel is a class group project of the Towson COSC484 Web-Based Programming class.
 
 ## Project Description
 
-Vacation Advisor is a web site providing information to tourists regarding popular cities in the United States and provides the information about exciting things to do in these tourists areas.
+Vacation Advisor is a web site providing information to tourists regarding popular cities in the United States and provides  information about exciting things to do in these tourists areas.
 
 ### Tools & Technologies
 #### Front-end Languages:
@@ -46,21 +46,21 @@ Website consists of the following pages/features :
 
 ## API Endpoints
 
+1. Provides closest attractions from the miles of radius.
+
     GET api/v1/attractions/:lat/:lng/:miles
 
-The endpoint provides closest attractions from the miles of radius.
+2. Provides all attractions.
 
     GET api/v1/attractions
 
-The endpoint provides all attractions.
+3. Provides attractions based on the number of ratings received.
 
     GET api/v1/attractions/:reviews
 
-The endpoint provides attractions based on the number of ratings received.
+4. Creates attractions from the POST body array.
 
     POST api/v1/attractions
-
-The endpoint creates attractions from the POST body array.
 
 
 ## Authors:
