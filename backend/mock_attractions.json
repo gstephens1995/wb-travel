@@ -1,14 +1,6 @@
 {
-    "39.3879,-76.5787": [
-        {
-            "Meadowood Regional Park": {
-                "lat": "39.245263",
-                "lng": "-77.2415432"
-            },
-            "Hampton National Historic Site": {
-                "lat": "39.246318",
-                "lng": "-77.1249257"
-            }
-        }
-    ]
+ name: "string",
+ lat: "123",
+ lng: "123",
+ reviews: 0
 }
