@@ -8,34 +8,34 @@ Vacation Advisor is a web site providing information to tourists regarding popul
 
 ### Tools & Technologies
 #### Front-end Languages:
-• HTML
-• CSS
-• JavaScript
-• Jquery
+* HTML
+* CSS
+* JavaScript
+* Jquery
 
 #### Front end frameworks (used to make website responsive):
-• Bootstrap
+* Bootstrap
 
 #### Tools used in code development:
-• Visual studio code
-• Google Chrome Browser
+* Visual studio code
+* Google Chrome Browser
 
 ### Features/Pages:
 Website consists of the following pages/features :
-• Home Page
-  - It is main landing page of website which provides navigation to other pages and a brief introduction of website
-• About Us
-  - An introductory page which provides information about company (website)
-• Things to do
-  - An interactive list of exciting things to do in multiple places
-• Cities
-  - List of popular cities in USA
-• Contact Us
-  - This page provides the contact information
-• Sign In
-  - This page provides forms to sign in or register new users
-• Detail page
-  - This page gives complete detail of a single location along with user’s feedback list . It also facilitate user to post their feedback
+* Home Page
+  * It is main landing page of website which provides navigation to other pages and a brief introduction of website
+* About Us
+  * An introductory page which provides information about company (website)
+* Things to do
+  * An interactive list of exciting things to do in multiple places
+* Cities
+  * List of popular cities in USA
+* Contact Us
+  * This page provides the contact information
+* Sign In
+  * This page provides forms to sign in or register new users
+* Detail page
+  * This page gives complete detail of a single location along with user’s feedback list . It also facilitate user to post their feedback
 
 
 
@@ -65,11 +65,11 @@ The endpoint creates attractions from the POST body array.
 
 ## Authors:
 
-- Aidan Houlihan
-- Carlton Etchison
-- Charles Lejtman
-- Greg Stephens
-- Kaleem
-- Prince John Okodua-Oboh
-- Thiri Hsu Myat Aung
+* Aidan Houlihan
+* Carlton Etchison
+* Charles Lejtman
+* Greg Stephens
+* Kaleem
+* Prince John Okodua-Oboh
+* Thiri Hsu Myat Aung
 
